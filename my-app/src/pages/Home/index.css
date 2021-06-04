@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  min-height: 100%;
+}
+
+.app .sidebar {
+  width: 240px;
+}
+
+.app .content {
+  flex: 1;
+  background-color: #FCFAFF;
+  min-height: 100%;
+}
